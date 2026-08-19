@@ -1,5 +1,6 @@
 # Introdução ao DevSecOps - Notebook: DevSecOps do zero ao professional
 Criando o segundo cérebro para complementar conhecimentos introdutório de DevSecOps no notebookLM.
+NotebookLM: https://notebook.google.com/notebook/6a6bc8d8-0899-4a80-94be-7ed48e347ae8
 
 📄 CONTEXTOS E OBJETIVOS: Criar o segundo cérebro para complementar conhecimentos introdutório de DevSecOps. É uma área pouco mencionada, mas de muito valor no mercado de trabalho. Unificada com as tarefas de Dev (Desenvolvimento) + Sec (Security) + Ops (Operação automatizada), apresenta um bom desempenho na criação de softwares, automatizando as tarefas e analisando a segurança do código e do software. Particularmente, estou fascinado pelo cargo e sua cultura, pois permite-me desenvolver e analisar os pontos preocupantes no código.
 
